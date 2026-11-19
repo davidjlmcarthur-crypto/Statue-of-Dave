@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Statue of Dave",
-  "short_name": "Statue of Dave",
-  "description": "Build workouts, track sets and log sessions.",
+  "name": "Dave's Fitness",
+  "short_name": "Dave's Fitness",
+  "description": "Track workouts, points, and training consistency.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

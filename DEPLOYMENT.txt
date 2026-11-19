@@ -1,0 +1,11 @@
+Dave's Fitness — updated PWA
+
+All distance activities are logged in kilometres. Former mile-based rates are converted using 1 mile = 1.6 km. Existing records, local storage, and JSON import/export remain supported.
+
+Deploy to GitHub Pages
+1. Export a JSON backup from the current app.
+2. Extract this ZIP and upload its contents to the root of the existing repository, replacing matching files. Keep index.html at repository root.
+3. Commit the files and wait for the Pages deployment to finish.
+4. Reopen or refresh the installed PWA.
+
+This package does not publish or change the live repository.
